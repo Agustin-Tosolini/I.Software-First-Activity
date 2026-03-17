@@ -1,6 +1,6 @@
 # I.Software-First-Activity
 
-First activity of Software Engineer
+First activity of Software Engineering
 
 ## Assignment
 
