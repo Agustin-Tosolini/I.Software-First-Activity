@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Hola soy Baltasar
+=======
 File edited once again in feat1.
+>>>>>>> origin/main
